@@ -32,10 +32,10 @@ Este curso fue parte de mi camino de aprendizaje en ciencia de datos. Me ayudó 
 ## 📂 Contenido del repositorio
 
 ```
-numpy-learning/
+numpy/
 │
-├── ejercicios/         # Ejercicios prácticos desarrollados
-├── ejemplos/           # Scripts con ejemplos de cada tema
+├── Numpy_Alura/        # Ejercicios prácticos desarrollados
+├── Numpy_Alura/        # Scripts con ejemplos de cada tema
 ├── data/               # Archivos de datos usados
 └── README.md           # Este documento
 ```
